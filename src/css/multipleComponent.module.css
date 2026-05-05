@@ -1,0 +1,18 @@
+.style {
+  width: 100%;
+  background-color: rgb(134, 189, 52);
+  padding: 4px;
+  border-radius: 5px;
+}
+/* w-full bg-green-300 p-4 rounded-xl */
+
+.componentStyle {
+  width: 0em;
+  height: 20em;
+  background-color: aqua;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+/* w-full h-70 bg-green-200 rounded-xl flex flex-col justify-start p-5 */

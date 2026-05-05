@@ -1,0 +1,32 @@
+This project is a Task Management Dashboard built using React and Tailwind CSS. It allows users to create, manage, and organize their daily tasks efficiently.
+
+Main Functionalities:
+Add Task
+Users can create a new task by entering a title and description using a form.
+Edit Task
+Existing tasks can be edited. When the user clicks the edit button, the form opens with pre-filled data.
+Delete Task
+Completed tasks can be removed from the list.
+Mark Task as Complete
+Users can mark tasks as completed. Completed tasks are shown separately.
+Task Filtering
+Tasks can be filtered based on:
+All tasks
+Completed tasks
+Incomplete tasks
+Search Functionality
+Users can search tasks by title using the search bar.
+Date Filter
+Tasks can be filtered by selecting a specific date from the calendar.
+Local Storage Support
+All tasks are saved in the browser’s local storage, so data remains even after refreshing the page.
+Dark/Light Theme Toggle
+Users can switch between light mode and dark mode.
+Responsive Design
+The layout adjusts for mobile and desktop screens, including a hamburger menu for smaller devices.
+User Profile Section
+Displays user information like name, email, and profile image.
+Modal Form UI
+Task form appears as a popup modal for better user experience.
+Context API Usage
+Global state management is handled using React Context API to share data across components.
